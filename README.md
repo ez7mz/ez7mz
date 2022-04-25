@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ez7mz
 - 👀 I’m interested in IT and DATA Analytics
 - 🌱 I’m currently learning Software and DATA ENGINEERING
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me : mesrarhamza48@gmail.com
 
 <!---
