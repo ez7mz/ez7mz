@@ -150,4 +150,5 @@ if __name__ == '__main__':
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ez7mz">&emsp;
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ez7mz">&emsp;
 </p>
