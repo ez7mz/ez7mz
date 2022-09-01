@@ -36,7 +36,7 @@ if __name__ == '__main__':
 
 
 ```
-## 💬 Contact me
+## 💬 Get in touch
 <br>
 <p align="center">
     <a href="mailto:mesrarhamza48@gmail.com">
@@ -74,7 +74,6 @@ if __name__ == '__main__':
 
 ## 💻 Tech Stack
 <br>
-
 * #### OS :
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">&nbsp;
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">&nbsp;
