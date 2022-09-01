@@ -3,7 +3,6 @@
 ![](./static/7header.png)
 
 ## 👨🏻‍🎓 About
----
 <p align="left">
 I'm 22 years old, IT and DATA Engineering Student who is passionate about Data Analysis and Business intelligence.
 </p>
@@ -38,7 +37,6 @@ if __name__ == '__main__':
 
 ```
 ## 💬 Contact me
----
 <br>
 <p align="center">
     <a href="mailto:mesrarhamza48@gmail.com">
@@ -55,7 +53,6 @@ if __name__ == '__main__':
 </p>
 
 ## 🌎 Find me
----
 <br>
 <p align="center">
     <a href="https://www.instagram.com/ez7m.z/">
@@ -76,7 +73,6 @@ if __name__ == '__main__':
 </p>
 
 ## 💻 Tech Stack
----
 <br>
 
 * ### OS : 
@@ -174,7 +170,6 @@ if __name__ == '__main__':
 <br>
 
 ## 📊 Profile stat
----
 <br>
 
 <p align="center">
