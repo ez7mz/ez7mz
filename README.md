@@ -4,7 +4,7 @@
 
 ## 👨🏻‍🎓 About
 <p align="left">
-I'm 22 years old, IT and DATA Engineering Student who is passionate about Data Analysis and Business intelligence.
+I'm 22 years old Moroccan, IT and DATA Engineering Student who is passionate about Data Analysis and Business intelligence.
 </p>
 
 ```python
