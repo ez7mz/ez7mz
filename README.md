@@ -43,11 +43,11 @@ if __name__ == '__main__':
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail">
     </a>
     &emsp;&emsp;
-    <a href="">
+    <a href="https://www.linkedin.com/in/ez7mz/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
     </a>
     &emsp;&emsp;
-    <a href="tele:+212773898743">
+    <a href="tel:+212773898743">
         <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="cell">
     </a>
 </p>
