@@ -151,4 +151,9 @@ if __name__ == '__main__':
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ez7mz">&emsp;
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ez7mz">&emsp;
+    
+<!--     <img src="https://github-profile-trophy.vercel.app/?username=ez7mz">&emsp;
+    <img src="https://github-readme-stats.vercel.app/api?username=ez7mz">&emsp;
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ez7mz&theme=vue">&emsp;
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fez7mz1212%2Fhit-counter">&emsp; -->
 </p>
