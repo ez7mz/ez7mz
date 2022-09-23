@@ -13,7 +13,7 @@ class ez7mz:
     def __init__(self):
         self.username = 'ez7mz'
         self.name = 'Mesrar Hamza'
-        self.web = 'https://ez7mz.com'
+        self.web = 'https://ez7mz.me'
         self.linkedin = 'linkedin.com/in/ez7mz/'
         self.twitter = '@ez7mz'
         self.instagram = '@ez7m.z'
