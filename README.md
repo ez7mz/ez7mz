@@ -39,7 +39,7 @@ if __name__ == '__main__':
 ## 💬 Get in touch
 <br>
 <p align="center">
-    <a href="mailto:mesrarhamza48@gmail.com">
+    <a href="mailto:mesrarhamza48@ez7mz.me">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail">
     </a>
     &emsp;&emsp;
@@ -160,5 +160,5 @@ if __name__ == '__main__':
 
 ---
 <p align="center">
-    <em> &copy; 2022 ez7mz, Inc </em>
+    <a href="https://ez7mz.me" target="_blank"> <em> &copy; 2022 ez7mz, Inc </em></a>
 </p>
