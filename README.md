@@ -46,10 +46,6 @@ if __name__ == '__main__':
     <a href="https://www.linkedin.com/in/ez7mz/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
     </a>
-    &emsp;&emsp;
-    <a href="tel:0773898743">
-        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="cell">
-    </a>
 </p>
 
 ## 🌎 Find me
@@ -67,8 +63,8 @@ if __name__ == '__main__':
         <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook">
     </a>
     &emsp;
-    <a href="https://www.snapchat.com/add/ez7m.z?share_id=SVWd-f8415Y&locale=en-US">
-        <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white" alt="snapchat">
+    <a href="https://discord.com/users/914933274948825191">
+        <img src="https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="snapchat">
     </a>
 </p>
 
