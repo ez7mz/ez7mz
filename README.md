@@ -11,22 +11,17 @@ Greetings! I am a Dedicated Data Engineer and Data Analyst with a fervent passio
 class ez7mz:
 
     def __init__(self):
+        # who am I ?
+        self.full_name = 'Mesrar Hamza'
         self.username = 'ez7mz'
-        self.name = 'Mesrar Hamza'
+        self.role = 'Data Engineering Student'
+
+        # find me
         self.web = 'https://ez7mz.me'
         self.linkedin = 'linkedin.com/in/ez7mz/'
         self.twitter = '@ez7mz'
-        self.instagram = '@ez7m.z'
-        self.code = {
-            'os': ['Windows', 'Ubuntu', 'MacOS'],
-            'languages': ['C', 'Python', 'Java', 'JavaScript', 'TypeScript'],
-            'web dev': ['ReactJs', 'Django', 'SpringBoot'],
-            'DBMS': ['PostgreSQL', 'MySQL', 'SQLite3', 'Oracle'],
-            'Dev Kit': ['GIT', 'GitHub', 'GitLab', 'Trello'],
-            'Modeling': ['Merise', 'UML'],
-            'Data Analytics' : ['Excel/spreadsheet', 'python/@numpy&pandas', 'python/@sckit-learn'],
-            'Visualization' : ['PowerBi', 'Plotly', 'StreamLit']
-        }
+
+        self.stack = ['Data Engineering', 'Data Analysis', 'Web scraping', 'Web dev']
 
     def __str__(self):
         return self.name
