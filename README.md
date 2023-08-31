@@ -47,15 +47,7 @@ if __name__ == '__main__':
 ## 📊 Profile stat
 <br>
 
-<p align="center">
-    <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ez7mz&theme=tokyonight&show_icons=true">&emsp; -->
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ez7mz&theme=tokyonight">&emsp;
-    <img src="https://streak-stats.demolab.com/?user=ez7mz&theme=tokyonight">&emsp;
-    
-<!-- <img src="https://github-profile-trophy.vercel.app/?username=ez7mz&theme=tokyonight">&emsp; -->
-<!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ez7mz&theme=tokyonight">&emsp; -->
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=ez7mz&theme=tokyonight&show_icons=true">&emsp; -->
-</p>
+![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)]
 
 ---
 <p align="center">
