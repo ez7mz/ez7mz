@@ -29,9 +29,8 @@ class ez7mz:
 
 if __name__ == '__main__':
     me = ez7mz()
-
-
 ```
+
 ## 💬 Get in touch
 <br>
 <p align="center">
