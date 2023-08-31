@@ -46,7 +46,7 @@ if __name__ == '__main__':
 ## 📊 Profile stat
 <br>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)]
+<img src="https://streak-stats.demolab.com/?user=ez7mz&theme=tokyonight" />
 
 ---
 <p align="center">
