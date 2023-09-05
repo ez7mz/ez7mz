@@ -45,8 +45,9 @@ if __name__ == '__main__':
 
 ## 📊 Profile stat
 <br>
-
-<img src="https://streak-stats.demolab.com/?user=ez7mz&theme=tokyonight" />
+<div style="text-align:center">
+    <img src="https://streak-stats.demolab.com/?user=ez7mz&theme=tokyonight" />
+</div>
 
 ---
 <p align="center">
