@@ -43,13 +43,13 @@ if __name__ == '__main__':
     </a>
 </p>
 
+![snake gif](https://github.com/ez7mz/ez7mz/blob/output/github-snake-dark.svg)
+
 ## 📊 Profile stat
 <br>
 <div align="center">
     <img src="https://streak-stats.demolab.com/?user=ez7mz&theme=tokyonight" />
 </div>
-
-![snake gif](https://github.com/ez7mz/ez7mz/blob/output/github-snake-dark.svg)
 
 ---
 <p align="center">
