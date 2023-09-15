@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - output
+  workflow_dispatch:
 
 jobs:
   update-readme:
