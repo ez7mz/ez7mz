@@ -49,7 +49,7 @@ if __name__ == '__main__':
     <img src="https://streak-stats.demolab.com/?user=ez7mz&theme=tokyonight" />
 </div>
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/ez7mz/ez7mz/blob/output/github-contribution-grid-snake.gif)
 
 ---
 <p align="center">
