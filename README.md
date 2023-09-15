@@ -49,6 +49,8 @@ if __name__ == '__main__':
     <img src="https://streak-stats.demolab.com/?user=ez7mz&theme=tokyonight" />
 </div>
 
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+
 ---
 <p align="center">
     <a href="https://ez7mz.me" target="_blank"> <em> &copy; 2022 ez7mz, Inc </em></a>
