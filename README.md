@@ -6,31 +6,31 @@
 
 
 <p align="center">
-	<a href="mailto:mesrarhamza48@gmail.com">
+	<a target="_blank" href="mailto:mesrarhamza48@gmail.com">
 		<img width="64px" alt="Email" title="send me an email" src="static/social-icons/mail.gif"/>
 	</a>
 	&emsp;
-	<a href="https://www.linkedin.com/in/ez7mz/">
+	<a target="_blank" href="https://www.linkedin.com/in/ez7mz/">
 		<img width="64px" alt="Linkedin" title="Connect with me" src="static/social-icons/linkedin.gif"/>
 	</a>
 	&emsp;
-	<a href="https://hmesrar.netlify.app/">
+	<a target="_blank" href="https://hmesrar.netlify.app/">
 		<img width="64px" alt="Portfolio" title="Visit my portfolio" src="static/social-icons/www.gif"/>
 	</a>
 	&emsp;
-	<a href="https://twitter.com/ez7mz">
+	<a target="_blank" href="https://twitter.com/ez7mz">
 		<img width="64px" alt="Twitter" title="Follow me on twitter" src="static/social-icons/twitter.gif"/>
 	</a>
 	&emsp;
-	<a href="https://www.instagram.com/ez7m.z/">
+	<a target="_blank" href="https://www.instagram.com/ez7m.z/">
 		<img width="64px" alt="Instagram" title="Follow me on instagram" src="static/social-icons/instagram.gif"/>
 	</a>
 	&emsp;
-	<a href="https://discord.com/users/914933274948825191">
+	<a target="_blank" href="https://discord.com/users/914933274948825191">
 		<img width="64px" alt="Discord" title="Join me on discord" src="static/social-icons/discord.gif"/>
 	</a>
 	&emsp;
-	<a href="https://medium.com/@hmesrar">
+	<a target="_blank" href="https://medium.com/@hmesrar">
 		<img width="64px" alt="Medium" title="Read my articles on Medium" src="static/social-icons/medium.gif"/>
 	</a>
 </p>
@@ -70,20 +70,6 @@ class ez7mz:
 if __name__ == '__main__':
     me = ez7mz()
 ```
-
-<!-- ## 💬 Get in touch
-<br>
-<p align="center">
-    <a href="mailto:mesrarhamza48@ez7mz.me">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail">
-    </a>
-    &emsp;&emsp;
-    <a href="https://www.linkedin.com/in/ez7mz/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
-    </a>
-</p> -->
-
-
 
 ## 📊 Profile stat
 <br />
