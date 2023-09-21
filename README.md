@@ -10,7 +10,7 @@
 		<img width="64px" alt="Email" title="send me an email" src="static/social-icons/mail.gif"/>
 	</a>
 	&emsp;
-	<a target="_blank" href="https://www.linkedin.com/in/ez7mz/">
+	<a target="_blank" href="https://www.linkedin.com/in/hmesrar/">
 		<img width="64px" alt="Linkedin" title="Connect with me" src="static/social-icons/linkedin.gif"/>
 	</a>
 	&emsp;
