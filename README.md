@@ -44,8 +44,7 @@
 ---
 ## 👨🏻‍🎓 About
 <p align="left">
-Greetings! I am a Dedicated Data Engineer and Data Analyst with a fervent passion for Business Intelligence and a mission to empower informed decision-making.
-</p>
+Greetings! I'm currently a Data Engineering student, focusing on building cloud-based Data pipelines and crafting well-designed data acquisition systems. My passion lies in building dependable data setups that help organizations thrive in the world of information.
 
 ```python
 class ez7mz:
