@@ -44,7 +44,10 @@
 ---
 ## 👨🏻‍🎓 About
 <p align="left">
-Greetings! I'm currently a Data Engineering student, focusing on building cloud-based Data pipelines and crafting well-designed data acquisition systems. My passion lies in building dependable data setups that help organizations thrive in the world of information.
+A mind wired for AI, a heart driven by curiosity, and a passion for transforming data into impact.
+<br>
+Exploring patterns, predicting possibilities, and engineering intelligence—one model at a time.
+<br>
 
 ```python
 class ez7mz:
