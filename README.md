@@ -56,14 +56,14 @@ class ez7mz:
         # who am I ?
         self.full_name = 'Mesrar Hamza'
         self.username = 'ez7mz'
-        self.role = 'Data Engineering Student'
+        self.role = 'Data Scientist/Engineer @Oracle'
 
         # find me
         self.web = 'https://hmesrar.netlify.app/'
-        self.linkedin = 'linkedin.com/in/ez7mz/'
-        self.twitter = '@ez7mz'
+        self.linkedin = 'linkedin.com/in/hmesrar/'
+        self.twitter = '@hmesrar'
 
-        self.stack = ['Data Engineering', 'Data Analysis', 'Web scraping', 'Web dev']
+        self.areas = ['Machine Learning', 'Data Engineering', 'Data Analysis', 'Web scraping', 'Web dev']
 
     def __str__(self):
         return self.full_name
