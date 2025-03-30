@@ -50,12 +50,12 @@ Exploring patterns, predicting possibilities, and engineering intelligence—one
 <br>
 
 ```python
-class ez7mz:
+class Hmesrar:
 
     def __init__(self):
         # who am I ?
         self.full_name = 'Mesrar Hamza'
-        self.username = 'ez7mz'
+        self.username = '@hmesrar'
         self.role = 'Data Scientist/Engineer @Oracle'
 
         # find me
@@ -70,7 +70,7 @@ class ez7mz:
 
 
 if __name__ == '__main__':
-    me = ez7mz()
+    me = Hmesrar()
 ```
 
 ## 📊 Profile stat
